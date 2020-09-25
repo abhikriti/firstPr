@@ -2,6 +2,8 @@
 #include<algorithm>
 using namespace std;
 
+
+// my code
 int bin_search(int arr[], int n, int key)
 {
 	int l,h,mid;
