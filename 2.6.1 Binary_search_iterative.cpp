@@ -2,7 +2,7 @@
 #include<algorithm>
 using namespace std;
 
-
+// This is comment in c++
 // my code
 int bin_search(int arr[], int n, int key)
 {
