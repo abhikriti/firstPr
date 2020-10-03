@@ -32,6 +32,6 @@ int main()
 	int size = sizeof(arr)/sizeof(arr[0]);
      
     int result = bin_search(arr,size,40);
-	(result == -1) ? printf("Element is present") : printf("Elemet is present at %d",result); 
+	(result == -1) ? printf("Element is present") : printf("Elemet is present at %d",result); // this is conditoanal statements
 	return 0;
 }
